@@ -1,11 +1,18 @@
 Dados do aluno
 
 -Primeiro Nome:
+Nathan 
 -Profissão:
+Engenheiro de qualidade de Software
 -Cidade:
+Contagem
 -O que faz nas horas vaga:
+Gosto de asisstir filmes, ler e jogar videogames
 -Feedback sobre o curso Qualidade de Software:
+Até agora o curso está sendo ótimo, módulos bem estruturados e de fácil entendimento.
+Bons exercícios e ótimos exemplos práticos.
 -Feedback sobre a plataforma de estudo da EBAC:
+A plataforma é ótima, interface simples e funcional. Feedbacks dentro do prazo e super bem escritos pelos tutores.
 
 Obrigado!!!
 
